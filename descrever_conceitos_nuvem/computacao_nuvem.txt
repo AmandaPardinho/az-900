@@ -1,0 +1,17 @@
+O QUE É COMPUTAÇÃO EM NUVEM
+
+-computação em nuvem =>
+    -entrega de serviços de computação pela internet
+    -serviços de computação entregues =>
+        -infraestrutura de TI comum
+            -maquinas virtuais
+            -armazenamento
+            -bancos de dados
+            -rede
+        -IoT
+        -machine learning
+        -inteligência artificial
+    -uso da internet para fornecer serviços permite => 
+        -não ficar restrito à infraestrutura física (data centers locais)
+        -escalar serviços conforme demanda
+        

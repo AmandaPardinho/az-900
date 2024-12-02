@@ -1,0 +1,10 @@
+RECURSOS ADICIONAIS
+
+1. MODELO DE RESPONSABILIDADE COMPARTILHADA
+https://learn.microsoft.com/pt-br/azure/security/fundamentals/shared-responsibility
+
+2. INTRODUÇÃO À SOLUÇÃO VMWARE NO AZURE
+https://learn.microsoft.com/pt-br/training/modules/intro-azure-vmware-solution/
+
+3. INTRODUÇÃO AOS SERVIÇOS DE NUVEM HÍBRIDA DO AZURE
+https://learn.microsoft.com/pt-br/training/modules/intro-to-azure-hybrid-services/

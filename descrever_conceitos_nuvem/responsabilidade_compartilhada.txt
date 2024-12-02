@@ -1,0 +1,45 @@
+DESCREVER O MODELO DE RESPONSABILIDADE COMPARTILHADA
+
+-modelo de responsabilidade compartilhada =>
+    -as responsabilidades são compartilhadas entre o provedor de nuvem e o consumidor
+        -responsabilidades do provedor =>
+            -segurança física
+            -energia
+            -resfriamento
+            -conectividade de rede
+        -responsabilidade do consumidor =>
+            -dados
+            -informações armazenadas na nuvem
+            -segurança de acesso
+    -o consumidor não fica na mesma localização do data center
+    -o modelo de responsabilidade compartilhada está vinculado aos tipos de serviço de nuvem (ver img_01)
+        -IaaS => 
+            -infraestrutura como serviço
+            -responsabilidade do consumidor é maior
+            -provedor de nuvem é responsável pelas questões básicas de segurança física, energia e conectividade
+        -PaaS => 
+            -plataforma como serviço
+            -responsabilidade do provedor é maior
+            -ditribui a responsabilidade de forma mais uniforme entre provedor e consumidor
+        -SaaS => 
+            -software como serviço
+            -responsabilidade do provedor é maior
+
+-data centers locais =>
+    -o consumidor é responsável por tudo
+
+-sempre será de responsabilidade do consumidor =>
+    -informações e dados armazenados na nuvem
+    -dispositivos que têm permissão para se conectar à nuvem
+    -conta e identidades das pessoas, serviços e dispositivos da organização
+
+-sempre será de responsabilidade do provedor =>
+    -data center físico
+    -rede física
+    -hosts físicos
+
+-o modelo de serviço utilizado irá determinar a responsabilidade por =>
+    -sistemas operacionais
+    -controles de rede
+    -aplicativos
+    -identidade e infraestrutura

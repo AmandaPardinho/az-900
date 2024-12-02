@@ -1,0 +1,11 @@
+INTRODUÇÃO AOS CONCEITOS BÁSICOS DO MICROSOFT AZURE
+
+-microsoft azure =>
+    -plataforma de computação em nuvem
+    -possui um conjunto de serviços que auxiliam na criação de soluções 
+
+-certificação az-900 - conceitos básicos do microsoft azure =>
+    -áreas de conhecimento para a prova =>
+        -conceitos de nuvem (25-30%)
+        -arquitetura e serviços do azure (35-40%)
+        -gerenciamento e governança do azure (30-35%)

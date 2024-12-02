@@ -1,0 +1,38 @@
+DEFINIR MODELOS DE NUVEM
+
+-modelos de nuvem: definem o tipo de implantação de recursos de nuvem
+    -três modelos principais =>
+        -nuvem privada =>
+            -nuvem usada por uma única organização (evolução do data center tradicional)
+            -fornece um controle maior para a empresa e o departamento de TI
+            -mais cara
+            -menos benefícios
+            -pode ser hospedada no datacenter local ou exetrno que seja exclusivo para a organização
+            -controle total sobre recursos e segurança
+            -os dados não são colocados com os dados de outras empresas
+            -necessário compra de hardware e sua manutenção e atualização
+        -nuvem pública =>
+            -criada controlada e mantida por um provedor de nuvem terceirizado
+            -qualquer pessoa pode comprar serviços de nuvem, acessar e usar seus recursos
+            -nenuma despesa para escalar verticalmente
+            -aplicativos podem ser provisionados ou desprovisionados rapidamente
+            -mais barata => paga-se apenas pelo que se usa
+            -organizações não têm controle total sobre os recursos e a segurança
+        -nuvem híbrida =>
+            -usa nuvens privadas e públicas num ambiente interconectado
+            -pode ser usado para permitir que uma nuvem privada escale para atender uma maior demanda
+            -pode ser usada para fornecer uma camada extra de segurança
+            -mais flexível
+            -as organizações determinam o local para executar os aplicativos
+            -as empresas controlam a segurança, a conformidade e os requisitos legais
+    -várias nuvens =>
+        -quarto cenário possível
+        -vários provedores de nuvem pública são usados
+        -permite o uso de diferentes recursos de diferentes provedores
+        -gerenciamento de recursos e segurança é feito pelo consumidor em ambos os ambientes
+    -azure arc =>
+        -conjunto de tecnologias que ajuda no gerenciamento da nuvem
+        -permite que os clientes usem o Azure para gerenciar recursos em qualquer lugar (seja uma nuvem privada, híbrida ou várias nuvens)
+    -vmware no azure =>
+        -permite que os clientes que já tenham o vmware estabelecido numa nuvem privada possam migrar para uma nuvem pública ou híbrida, executando suas cargas de trabalho com integração e escalabilidade total
+            

@@ -1,0 +1,14 @@
+DESCREVER O MODELO BASEADO EM CONSUMO
+
+-tipos de despesas a serem consideradas ao comparar modelos de infraestrutura de TI
+    -CapEx(despesas de capital)
+        -é normalmente uma despesa inicial únicapara comprar ou proteger recursos tangíveis, como hardware, software e instalações
+    -OpEx(despesas operacionais)
+        -gasto de capital em serviços e produtos ao longo do tempo
+        -computação em nuvem se enquadra neste modelo de despesas
+            -modelo baseado em consumo => apenas será cobrado aquilo que for usado
+                -benefícios:
+                    -sem custos prévios
+                    -sem necessidade de comprar nem gerenciar uma infraestrutura cara que talvez não seja usada em sua capacidade máxima
+                    -capacidade de pagar para obter mais recursos quando necessário
+                    -capacidade de parar de pagar por recursos que não são mais necessários
